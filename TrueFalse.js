@@ -7,7 +7,7 @@
 // null
 // undefined
 // NaN
-let name = " ";
+let name = "Asif";
 if(name){
     console.log("this is true");
 }
